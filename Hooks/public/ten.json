@@ -1,0 +1,115 @@
+
+[
+  {
+    "name": "John",
+    "age": 30,
+    "city": "New York",
+    "hobbies": ["reading", "traveling", "photography"],
+    "isMarried": false,
+    "education": {
+      "degree": "Bachelor's",
+      "major": "Computer Science"
+    }
+  },
+  {
+    "name": "Sarah",
+    "age": 25,
+    "city": "Los Angeles",
+    "hobbies": ["hiking", "painting", "yoga"],
+    "isMarried": true,
+    "education": {
+      "degree": "Master's",
+      "major": "Business Administration"
+    }
+  },
+  {
+    "name": "David",
+    "age": 40,
+    "city": "Chicago",
+    "hobbies": ["cooking", "gardening", "watching movies"],
+    "isMarried": true,
+    "education": {
+      "degree": "Bachelor's",
+      "major": "Marketing"
+    }
+  },
+  {
+    "name": "Amanda",
+    "age": 28,
+    "city": "San Francisco",
+    "hobbies": ["dancing", "singing", "playing guitar"],
+    "isMarried": false,
+    "education": {
+      "degree": "Bachelor's",
+      "major": "Journalism"
+    }
+  },
+  {
+    "name": "Michael",
+    "age": 35,
+    "city": "Seattle",
+    "hobbies": ["running", "swimming", "playing basketball"],
+    "isMarried": true,
+    "education": {
+      "degree": "Master's",
+      "major": "Mechanical Engineering"
+    }
+  },
+  {
+    "name": "Emily",
+    "age": 29,
+    "city": "Boston",
+    "hobbies": ["reading", "painting", "cooking"],
+    "isMarried": false,
+    "education": {
+      "degree": "Doctorate",
+      "major": "Psychology"
+    }
+  },
+  {
+    "name": "Daniel",
+    "age": 33,
+    "city": "Houston",
+    "hobbies": ["playing video games", "watching TV", "traveling"],
+    "isMarried": true,
+    "education": {
+      "degree": "Bachelor's",
+      "major": "Computer Engineering"
+    }
+  },
+  {
+    "name": "Olivia",
+    "age": 27,
+    "city": "Miami",
+    "hobbies": ["surfing", "skateboarding", "photography"],
+    "isMarried": false,
+    "education": {
+      "degree": "Master's",
+      "major": "Environmental Science"
+    }
+  },
+  {
+    "name": "Jacob",
+    "age": 31,
+    "city": "Dallas",
+    "hobbies": ["playing guitar", "writing songs", "hiking"],
+    "isMarried": true,
+    "education": {
+      "degree": "Doctorate",
+      "major": "Philosophy"
+    }
+  },
+  {
+    "name": "Isabella",
+    "age": 26,
+    "city": "Washington D.C.",
+    "hobbies": ["reading", "yoga", "traveling"],
+    "isMarried": false,
+    "education": {
+      "degree": "Bachelor's",
+      "major": "Political Science"
+    }
+  }
+]
+
+
